@@ -205,5 +205,5 @@ program define slide_examples_test_main
 
 end
 
-slide_examples_test_main
+*slide_examples_test_main
 *slide_examples_main
