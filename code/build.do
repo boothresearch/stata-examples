@@ -86,4 +86,3 @@ program define build_main
 
 end
 
-build_main

@@ -69,5 +69,5 @@ if "`analysis_indicator'" == "analysis" {
 CLEANUP: Everything is short for this project, so we can
 remove monthly data files from our machine to save space
 ************************/
-cd "$datadir"
-!rm nyt*.dta
+*cd "$datadir"
+*!rm nyt*.dta
